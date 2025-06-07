@@ -1,0 +1,240 @@
+{
+  "universities": [
+    {
+      "name": "SLIIT",
+      "ranking": "5916",
+      "courses": [
+    {
+      "title": "BSc (Hons) in Information Technology - Cyber Security | SLIIT",
+      "description": "SLIIT’s Cyber Security degree trains students for jobs in digital security and is approved by the University Grants Commission.",
+      "modules": [
+        "Industry Economics & Management",
+        "Network Security",
+        "Vulnerability Assessment & Penetration Testing",
+        "DevOps Security",
+        "Introduction to Programming",
+        "Data Communication Networks",
+        "Mathematics for Computing",
+        "Fundamentals of Computing",
+        "Industry Training",
+        "Cryptography",
+        "Ethical Hacking & Cyber Ops",
+        "Research Methods",
+        "Discrete Mathematics",
+        "Data Structures and Algorithms",
+        "Software Engineering",
+        "Technical Writing",
+        "Research Project - I",
+        "Governance, Risk Management & Compliance",
+        "Data & Systems Security",
+        "Secure Software Engineering",
+        "Cyber Law & Ethics",
+        "Probability and Statistics",
+        "Object Oriented Programming",
+        "Operating Systems & System Administration",
+        "Database Design and Development",
+        "Research Project - II",
+        "Digital Forensics",
+        "Virtualization & Cloud Security",
+        "Internet of Things",
+        "Artificial Intelligence & Machine Learning",
+        "Introduction to Cyber Security",
+        "Network Programming",
+        "Professional Skills"
+      ],
+      "link": "https://www.sliit.lk/computing/programmes/cyber-security-degree/"
+    }
+  ]
+    },
+    {
+      "name": "NSBM",
+      "ranking": "15,300",
+      "courses": [
+        {
+          "title": "Bachelor of Information Technology (Major in Cyber Security) | NSBM",
+          "description": "A Cyber Security degree with Victoria University that trains students for careers in digital protection and ethical hacking.",
+          "modules": [
+        "Information Security Governance and Compliance",
+        "Principles of Cyber Security",
+        "Principles of Digital Forensics",
+        "Network Security Management",
+        "Cyber Security and Forensics Project",
+        "Cyber Security Applications",
+        "Cyber Security Threats and Countermeasures",
+        "Digital Forensics and Incident Response",
+        "Digital Forensics Applications",
+        "Object-Oriented Programming with Java (Core)",
+        "Web-Based Application Development",
+        "Programming in C",
+        "Introduction to Computer Science",
+        "Professional Development",
+        "Computer Architecture (Core)",
+        "Data Communication and Networks",
+        "Database Management Systems",
+        "Operating Systems",
+        "Digital Forensics and Ethical Hacking",
+        "Server Administration and Management",
+        "Cyber Law Policy and Professional Ethics",
+        "Data Privacy and Cyber Physical Systems Security",
+        "Enterprise Network Management",
+        "Secures Operations and Vulnerability",
+        "Data Analytics for Cyber Security",
+        "Virtualization in Computing",
+        "Introduction to ICT Management",
+        "ICT Change Management",
+        "ICT Business Analytics and Data Visualization",
+        "Small IT Business",
+        "Cyber Security Essentials",
+        "IT Profession and Ethics",
+        "Applied Project 1",
+        "Applied Project 2"
+          ],
+          "link": "https://www.nsbm.ac.lk/course/bachelor-of-information-technology-nbit-major-in-web-and-mobile-application-development-vu/"
+        }
+      ]
+    },
+    {
+      "name": "NSBM",
+      "ranking": "15,300",
+      "courses": [
+        {
+          "title": "BSc (Hons) Computer Security | NSBM",
+          "description": "NSBM Green University offers a UGC-recognized 3-year BSc (Hons) Computer Security degree in partnership with the University of Plymouth, UK.",
+          "modules": [
+        "Introduction to Computer Science",
+        "Programming in C",
+        "Professional Development",
+        "Mathematics for Computing",
+        "Algorithms and Data Structures",
+        "Database Management Systems",
+        "Web Based Application Development",
+        "Object Oriented Programming with C#",
+        "System Analysis and Design",
+        "Computer Architecture",
+        "Software Engineering 02",
+        "Information Management and Retrieval",
+        "Computing Group Project",
+        "Introduction to IOT",
+        "Security Architecture and Cryptography",
+        "Computer Networks",
+        "Computing Individual Project",
+        "Multimedia Over IP",
+        "Security Operations and Incident Management",
+        "Advanced Computer Networking Infrastructure",
+        "Ethical Hacking"
+          ],
+          "link": "https://www.nsbm.ac.lk/course/bsc-hons-in-computer-security/"
+        }
+      ]
+    },
+    {
+      "name": "NIBM",
+      "ranking": "20,663",
+      "courses": [
+        {
+          "title": "BSc (Hons) in Ethical Hacking and Network Security",
+          "description": "NIBM offers a 4-year Ethical Hacking and Network Security degree with Coventry University, training students for careers in cybersecurity and digital forensics.",
+          "modules": [
+        "Introduction to Computer Science",
+        "Mathematics for Computing",
+        "Programming Fundamentals",
+        "Electronics and Computer Organization",
+        "Data Communication and Computer Networks",
+        "Database Management Systems",
+        "Routing and Switching Essentials",
+        "Scaling Networks",
+        "Operating Systems",
+        "System Essentials",
+        "Web Application Development",
+        "Connecting Networks",
+        "Network Engineering Project",
+        "Business Communication Skills",
+        "System Administration 1",
+        "Network Programming Design",
+        "Principles of Information Security",
+        "Virtualization and Storage",
+        "Advanced Database Management Systems",
+        "Embedded Application Development",
+        "System Administration 2",
+        "Network Security",
+        "Physical Security",
+        "Cloud Computing",
+        "Internet of Things",
+        "IT Management Practice",
+        "Cybersecurity",
+        "Digital Forensic Methods",
+        "Networked Systems",
+        "Security Audit and Testing",
+        "Law and Legal Frameworks for Acquisition and Evidence",
+        "Technology and its Social, Legal and Ethical Context",
+        "Effective Communication Skills 2",
+        "Penetration Testing",
+        "Cybersecurity 2",
+        "Advanced Network Systems",
+        "Individual Project",
+        "Artificial Intelligence and Human Computer Interaction",
+        "Data Recovery and Advanced Digital Forensic Analysis"
+          ],
+          "link": "https://www.nibm.lk/course/bsc-hons-ethical-hacking-and-network-security"
+        }
+      ]
+    },
+    {
+      "name": "ESOFT",
+      "ranking": "-",
+      "courses": [
+        {
+          "title": "Level 5 Pearson BTEC HND in Computing (Cyber Security)",
+          "description": "ESOFT’s BTEC HND in Cyber Security is a global qualification that helps you start a career in computing and continue your studies at top UK universities.",
+          "modules": [
+        "Programming",
+        "Networking",
+        "Professional Practice",
+        "Database Design And Development",
+        "Security",
+        "Planning A Computer Project",
+        "Cyber Security",
+        "Maths For Computing",
+        "Computing Research Project",
+        "Business Process Support",
+        "Applied Cryptography In The Cloud",
+        "Forensics",
+        "Information Security Management",
+        "Internet Of Things",
+        "Emerging Technologies"
+          ],
+          "link": "https://esoft.lk/esoft-courses/pearson-btec-level-5-hnd-in-computing-cyber-security/"
+        }
+      ]
+    },
+    {
+      "name": "CICRA",
+      "ranking": "-",
+      "courses": [
+        {
+          "title": "Bachelor of Cyber Security Pathway Programme",
+          "description": "Bachelor’s degree in Cyber Security from Deakin University, offering industry-relevant training and global recognition through CICRA Campus.",
+          "modules": [
+        "Introduction to Programming",
+        "Data and Information Management",
+        "Computer Systems",
+        "Data Science Concepts",
+        "Real World Practices for Cyber Security",
+        "Introduction to Functions, Relations and Graphs",
+        "Discrete Mathematics",
+        "Object-Oriented Development",
+        "Computer Networks and Communication",
+        "Secure Coding",
+        "Data Structures and Algorithms",
+        "Cloud Computing",
+        "Cryptography",
+        "Computer Crime and Digital Forensics",
+        "Advanced Network Security",
+        "Cyber Security Analytics"
+          ],
+          "link": "https://cicra.edu.lk/faculty-of-computing/undergraduate/bachelor-of-cyber-security-pathway-programme/"
+        }
+      ]
+    }
+  ]
+}
