@@ -2,7 +2,6 @@
   "universities": [
     {
       "name": "SLIIT",
-      "ranking": "5916",
       "courses": [
     {
       "title": "BSc (Hons) in Information Technology - Cyber Security | SLIIT",
@@ -48,7 +47,6 @@
     },
     {
       "name": "NSBM",
-      "ranking": "15,300",
       "courses": [
         {
           "title": "Bachelor of Information Technology (Major in Cyber Security) | NSBM",
@@ -95,7 +93,6 @@
     },
     {
       "name": "NSBM",
-      "ranking": "15,300",
       "courses": [
         {
           "title": "BSc (Hons) Computer Security | NSBM",
@@ -129,7 +126,6 @@
     },
     {
       "name": "NIBM",
-      "ranking": "20,663",
       "courses": [
         {
           "title": "BSc (Hons) in Ethical Hacking and Network Security",
@@ -181,7 +177,6 @@
     },
     {
       "name": "ESOFT",
-      "ranking": "-",
       "courses": [
         {
           "title": "Level 5 Pearson BTEC HND in Computing (Cyber Security)",
@@ -209,7 +204,6 @@
     },
     {
       "name": "CICRA",
-      "ranking": "-",
       "courses": [
         {
           "title": "Bachelor of Cyber Security Pathway Programme",
